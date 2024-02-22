@@ -42,3 +42,4 @@ Basis Universal 是一个超级压缩 GPU 纹理数据交换系统，它实现�
 -   [basis_universal](https://github.com/BinomialLLC/basis_universal)
 -   [Basis-Universal-Transcoders](https://github.com/KhronosGroup/Basis-Universal-Transcoders)
 -   [tiny.js 使用 BASIS 纹理](http://tinyjs.net/guide/advanced-texture-basistexture.html)
+-   [KTX-Software](https://github.com/KhronosGroup/KTX-Software)
