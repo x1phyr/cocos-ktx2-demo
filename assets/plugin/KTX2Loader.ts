@@ -1,4 +1,4 @@
-import { Asset, Root, Texture2D, assetManager, director } from "cc";
+import { Asset, Texture2D, assetManager, director } from "cc";
 import BASIS from "./basis_encoder/basis_encoder.js"
 import { BASIS_FORMAT, BasisFormat2GlFormat, Format } from "./Define";
 

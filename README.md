@@ -1,4 +1,4 @@
-# coocs-ktx2_demo
+# coocs-ktx2-demo
 
 这是一个用来测试 cocos creator 3.8.2 使用 ktx2 格式来处理纹理的 Demo，目前只有加载 ktx2 格式图片的功能。
 
